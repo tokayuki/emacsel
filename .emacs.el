@@ -2,7 +2,6 @@
 ;; 2012-03-18
 (keyboard-translate ?\C-h ?\C-?)
 (setq inhibit-startup-message t)
-;;(cd "/User/Toka")
 ;; 基本
 
 (setq inhibit-splash-screen t)
