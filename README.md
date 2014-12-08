@@ -1,0 +1,1 @@
+This emacs lisp intended for personal use.
